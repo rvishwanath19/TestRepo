@@ -6,3 +6,4 @@
 
 # ignore ALL files in ANY directory named 
 .ipynb_checkpoints/
+**/*.ipynb_checkpoints/
